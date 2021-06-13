@@ -1,0 +1,15 @@
+shaderpacks/*
+screenshots/*
+schematics/*
+saves/*
+resourcepacks/*
+logs/*
+defaultconfigs/*
+crash-reports/*
+.mixin.out/*
+hs_err_pid1836.log
+*.log
+
+options.txt
+
+optionsof.txt
