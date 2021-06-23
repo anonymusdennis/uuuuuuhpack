@@ -13,3 +13,7 @@ hs_err_pid1836.log
 options.txt
 
 optionsof.txt
+
+config/
+journeymap/*
+*.png
