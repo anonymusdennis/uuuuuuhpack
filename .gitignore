@@ -18,3 +18,7 @@ config/
 journeymap/*
 *.png
 
+
+servers.dat_old
+
+usercache.json
